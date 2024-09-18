@@ -2,6 +2,10 @@ https://insidethemicrosoftcloud.com/az900quiz/
 <br>
 https://www.passnexam.com/microsoft/az-900
 <br>
+https://www.youtube.com/watch?v=gH3pwWO0Q9Y
+<br>
+# Important Basic Questions
+### s m sadman sakib sayor
 
 
 1. **What is cloud computing?**
